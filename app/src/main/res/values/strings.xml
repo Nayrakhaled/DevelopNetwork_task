@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DevelopNetworkTask</string>
+    <string name="searching_for_network_connection">Searching for network connection</string>
+    <string name="name">Name</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="alreadyhaveaccount">AlreadyHaveAccount</string>
+    <string name="donnothaveaccount">DonNotHaveAccount     </string>
+    <string name="phone_error">Phone number must be 11 number</string>
+    <string name="password_error">Password is more than 8 char</string>
+    <string name="confirm_error">Confirm Password not same with password</string>
+    <string name="empty_error">Phone or password is empty.</string>
+    <string name="account_error">This account not found.</string>
+    <string name="correct_password_error">The password is wrong.</string>
+    <string name="logout">Logout</string>
+</resources>
