@@ -16,6 +16,7 @@ import com.bumptech.glide.Glide
 import com.example.developnetworktask.R
 import com.example.developnetworktask.databinding.ActivityHomeBinding
 import com.example.developnetworktask.model.local_source.sharedPrefs.SharedPrefs
+//import com.example.developnetworktask.model.local_source.sharedPrefs.SharedPrefs
 import com.example.developnetworktask.model.remote_source.ProductRemoteSource
 import com.example.developnetworktask.model.repository.product.ProductRepo
 import com.example.developnetworktask.network.MyConnectivityManager
