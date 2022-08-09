@@ -3,28 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/tasks/app/src/main/res/drawable-v24/card_border.xml" value="0.117" />
-        <entry key="..\:/tasks/app/src/main/res/drawable/colored_button_background.xml" value="0.117" />
-        <entry key="..\:/tasks/app/src/main/res/drawable/icon_black_back_bt.xml" value="0.114" />
-        <entry key="..\:/tasks/app/src/main/res/layout/activity_home.xml" value="0.20416666666666666" />
-        <entry key="..\:/tasks/app/src/main/res/layout/activity_signin.xml" value="0.22" />
-        <entry key="..\:/tasks/app/src/main/res/layout/activity_signup.xml" value="0.22" />
-        <entry key="..\:/tasks/app/src/main/res/layout/activity_splash.xml" value="0.11" />
-        <entry key="..\:/tasks/app/src/main/res/layout/activity_splush.xml" value="0.1" />
-        <entry key="..\:/tasks/app/src/main/res/layout/dialog_product_details.xml" value="0.20416666666666666" />
-        <entry key="..\:/tasks/app/src/main/res/layout/item_products.xml" value="0.25" />
-        <entry key="..\:/tasks/app/src/main/res/layout/item_products_second.xml" value="0.20416666666666666" />
-        <entry key="..\:/tasks/app/src/main/res/layout/network_screen.xml" value="0.2585969738651995" />
-        <entry key="..\:/tasks/app/src/main/res/layout/offline_layout.xml" value="0.1" />
-        <entry key="..\:/tasks/app/src/main/res/layout/progrees_bar.xml" value="0.22" />
-        <entry key="..\:/tasks/app/src/main/res/menu/main_menu.xml" value="0.17407407407407408" />
+        <entry key="..\:/tasks/DevelopNetwork_task/app/src/main/res/layout/activity_splash.xml" value="0.16" />
+        <entry key="..\:/tasks/DevelopNetwork_task/app/src/main/res/layout/no_network.xml" value="0.1" />
+        <entry key="..\:/tasks/DevelopNetwork_task/app/src/main/res/layout/signin_activity.xml" value="0.1" />
+        <entry key="..\:/tasks/DevelopNetwork_task/app/src/main/res/layout/signup_activity.xml" value="0.1" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
-    <output url="file://$PROJECT_DIR$/build/classes" />
-  </component>
-  <component name="ProjectType">
-    <option name="id" value="Android" />
-  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK" />
 </project>

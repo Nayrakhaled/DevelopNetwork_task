@@ -19,7 +19,8 @@
         <activity android:name=".view.auth.signup.SignUpActivity" />
         <activity android:name=".view.home.HomeActivity" />
         <activity
-            android:name=".view.SplashActivity"
+            android:name=".view.SplashScreen"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

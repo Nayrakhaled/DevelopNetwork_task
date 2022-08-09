@@ -25,7 +25,7 @@
 
     <include
         android:id="@+id/network_layout"
-        layout="@layout/offline_layout"
+        layout="@layout/no_network"
         android:visibility="invisible"
         />
 

@@ -34,7 +34,7 @@ class SharedPrefs private constructor() : ISharedPrefs {
     }
 
     override fun getToken(): String {
-        return sharedPref.getToken()
+        return sharedPreferences.getString(Keys.TOKEN, null)!!
     }
 
     override fun setState(state: Int) {
@@ -43,7 +43,7 @@ class SharedPrefs private constructor() : ISharedPrefs {
     }
 
     override fun getState(): Int {
-        return sharedPref.getState()
+        return sharedPreferences.getInt(Keys.IS_LOGGED, -1)
     }
 
 
